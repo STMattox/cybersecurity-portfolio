@@ -36,5 +36,5 @@ I specialize in translating high-level organizational discipline and complex sys
 ---
 
 ## 📬 Contact & Connect
-* **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-* **Email:** [your.email@example.com](mailto:your.email@example.com)
+* **LinkedIn:** [linkedin.com/in/yourprofile](https://www.linkedin.com/in/steven-mattox-35424811b)
+* **Email:** [your.email@example.com](mailto:steven.mattox@outlook.com)
