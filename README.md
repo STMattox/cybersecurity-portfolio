@@ -1,6 +1,6 @@
 # Steven Tyler Mattox | Cybersecurity Portfolio
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](www.linkedin.com/in/steven-mattox-35424811b)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://linkedin.com/in/steven-mattox-35424811b)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-red?logo=gmail)](mailto:steven.mattox@outlook.com)
 [![Credentials](https://img.shields.io/badge/Credential-Google_Cybersecurity_Professional_Certificate-green?logo=google)](https://coursera.org/share/da1d6cbbc0f70427bfb975643996c0e3)
 
