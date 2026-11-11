@@ -6,7 +6,7 @@
 
 ---
 
-## 🛡️ About Me
+##  About Me
 Former Director of Fine Arts and operational leader transitioning into cybersecurity, supported by a Master of Science in Applied Digital Technology and practical training through the **Google Cybersecurity Professional Certificate**. 
 
 I specialize in translating high-level organizational discipline and complex systems management into defensive security operations, practical threat analysis, and risk mitigation.
@@ -16,7 +16,7 @@ I specialize in translating high-level organizational discipline and complex sys
 
 ---
 
-## 📁 Featured Hands-On Projects
+##  Featured Hands-On Projects
 
 | Project | Tools / Concepts | Summary & Write-up |
 | :--- | :--- | :--- |
@@ -27,7 +27,7 @@ I specialize in translating high-level organizational discipline and complex sys
 
 ---
 
-## 📜 Certifications & Education
+##  Certifications & Education
 
 * **Google Cybersecurity Professional Certificate** — Coursera / Google
 * **Master of Science in Applied Digital Technology**
@@ -35,6 +35,6 @@ I specialize in translating high-level organizational discipline and complex sys
 
 ---
 
-## 📬 Contact & Connect
+##  Contact & Connect
 * **LinkedIn:** [linkedin.com/in/yourprofile](https://www.linkedin.com/in/steven-mattox-35424811b)
 * **Email:** [your.email@example.com](mailto:steven.mattox@outlook.com)
