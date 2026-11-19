@@ -24,6 +24,7 @@ I specialize in translating high-level organizational discipline and complex sys
 | **[02. Automated Security Scripting: Access Control](./projects/02-python-log-parsing)** | Python 3, File I/O, Strings/Lists | Developed a Python automation utility to audit server access lists, dynamically removing unauthorized IP addresses from restricted network boundaries. |
 | **[03. Database Auditing for Access & Privilege Hygiene](./projects/03-sql-security-auditing)** | SQL (PostgreSQL), IAM, Compliance | Queried system access and device event databases to identify failed authentications, privilege escalation risks, and off-hour system access. |
 | **[04. Incident Response & Threat Documentation](./projects/04-incident-response-playbook)** | NIST CSF, MITRE ATT&CK, Security Journal | Conducted post-incident triage and documentation for a simulated enterprise network intrusion, producing actionable containment and remediation playbooks. |
+| **[05. Enterprise Risk Audit & Threat Modeling](./projects/05-enterprise-risk-audit)** | NIST CSF, PASTA Framework, Risk Matrix | Executed a comprehensive security controls audit (Botium Toys) and PASTA threat model to classify critical assets, identify compliance gaps, and prioritize risk remediation. |
 
 ---
 
