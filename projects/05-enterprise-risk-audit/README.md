@@ -1,4 +1,4 @@
-# Project 05: Enterprise Risk Audit & Threat Modeling (NIST CSF / PASTA)
+# Project 05: Enterprise Risk Audit & Threat Modeling
 
 ## Executive Summary
 This project combines an internal security controls audit with an asset-centric threat modeling assessment to evaluate organizational risk posture. Using the **NIST Cybersecurity Framework (CSF)** and the **PASTA (Process for Attack Simulation and Threat Analysis)** methodology, I audited existing administrative and technical controls (Botium Toys scenario), classified critical business assets, mapped realistic attack vectors, and delivered a prioritized remediation roadmap.
